@@ -40,6 +40,6 @@ The system consists of **5 specialized agents** working in a coordinated workflo
 
 Below is an example of the final formatted email generated and sent by the system:
 
-<img width="1545" height="1497" alt="OpenAI Agent SDK Project - Mohsin Sheikhani" src="https://github.com/user-attachments/assets/4133f9d3-4de7-4fe0-9423-fd0d10d07a76" />
+<img width="1545" height="1497" alt="OpenAI Agent SDK Project - AI Agents Developer - Mohsin Sheikhani" src="https://github.com/user-attachments/assets/4133f9d3-4de7-4fe0-9423-fd0d10d07a76" />
 
 *The system automatically generates professional HTML emails with proper formatting, compelling subject lines, and personalized content tailored to the target audience.*
